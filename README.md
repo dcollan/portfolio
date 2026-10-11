@@ -2,6 +2,8 @@
 
 ## Portfolio on AI Projects Developed
 
+![Alt text](src\assets\dcollan-portfolio.png)
+
 ## Features in the Portfolio
 
 ⚡️ Modern UI Design + Reveal Animations\
